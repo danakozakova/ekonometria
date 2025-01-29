@@ -1,1 +1,4 @@
-# ekonometria
+# Projekt zo základov ekonometrie
+Tento projekt sa zameriava na analýzu faktorov ovplyvňujúcich urgentné návštevy zdravotníckych zariadení u pacientov s diabetom typu 1 v USA, konkrétne kvôli ťažkej hypoglykémii alebo diabetickej ketoacidóze (DKA). Cieľom práce bolo identifikovať determinanty, ktoré zvyšujú alebo znižujú pravdepodobnosť týchto návštev, pričom sa využívali dáta z databázy T1D Exchange z USA. Prostredníctvom LOGIT modelu som analyzovala rôzne faktory, ako demografické údaje, spôsob podávania inzulínu, náklady na zdravotnú starostlivosť, dostupnú pomoc a ďalšie zdravotné komplikácie. 
+Výsledky ukázali, že významný vplyv majú faktory ako rasa, pohlavie, používanie inzulínovej pumpy, úroveň vzdelania a dostupnosť zdravotnej starostlivosti. 
+Celkovo môžem povedať, že hoci je model nie úplne vhodný pre tieto dáta prináša užitočné podnety pre ďalšie skúmanie a zlepšenie manažmentu diabetu.
